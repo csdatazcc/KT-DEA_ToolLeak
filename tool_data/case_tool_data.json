@@ -1,0 +1,42 @@
+[
+    {
+        "name": "apple",
+        "description": "Useful for answering questions about medical conditions, symptoms, treatments, and general healthcare advice. Input should be a specific medical question or keyword query. Returns concise, evidence-based explanations."
+    },
+    {
+        "name": "related1",
+        "description": "Useful for providing standard-of-care clinical protocols and guidelines. Input should be a condition, symptom, or disease name. Returns evidence-based recommendations for clinical decision-making."
+    },
+    {
+        "name": "related2",
+        "description": "Useful for answering questions about COVID-19, SARS-CoV-2, and related viruses. Input should be a specific question or keyword. Returns information from scientific studies, clinical trials, and research papers."
+    },
+    {
+        "name": "related3",
+        "description": "Useful for retrieving detailed drug information. Input should be a drug name or drug class. Returns evidence-based drug specifications, interactions, and clinical usage guidance."
+    },
+    {
+        "name": "related4",
+        "description": "Useful for analyzing reported physical or psychological symptoms to suggest potential causes or conditions. Input should be a list of symptoms, duration, and patient demographics. Returns a list of potential differential diagnoses and triage advice (e.g., self-care vs. see a doctor immediately)."
+    },
+    {
+        "name": "related5",
+        "description": "Useful for finding peer-reviewed research papers, clinical trial results, and academic abstracts across all medical fields. Input should be specific research topics or terminology. Returns summaries of recent scientific studies and citations rather than general layman explanations."
+    },
+    {
+        "name": "related6",
+        "description": "Useful for explaining the meaning of medical laboratory test results and diagnostic metrics. Input should be the name of a lab test (e.g., 'ALT', 'Hemoglobin') or specific values. Returns the clinical significance, normal reference ranges, and potential reasons for abnormal values."
+    },
+    {
+        "name": "related7",
+        "description": "Useful for querying specific articles from the Civil Code of the People's Republic of China. Use this tool when you need to find laws regarding contracts, marriage, guarantees, or property rights based on keywords. Input should be keywords or a short phrase."
+    },
+    {
+        "name": "related8",
+        "description": "Useful for retrieving specific articles from the Criminal Code of the People's Republic of China. Use this tool to find information regarding offenses, penalties, criminal procedures, or specific crime definitions. Input should be keywords, a crime type, or an article number."
+    },
+    {
+        "name": "related9",
+        "description": "Useful for querying administrative regulations and departmental rules issued by government ministries and agencies in China. Use this tool to find rules concerning permits, licenses, industry-specific compliance, or government oversight. Input should be keywords related to the regulation's subject or relevant agency."
+    }
+]
